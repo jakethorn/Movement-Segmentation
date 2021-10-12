@@ -8,9 +8,9 @@ Left shows the original rotation data.
 Middle shows the potential segments in the data (coloured lines).  
 Right shows the segments identified by the algorithm.
 
-<img src="media/Picture1.png" width="275" align="left"/>
-<img src="media/Picture2.png" width="275" align="left"/>
-<img src="media/Picture3.png" width="275" align="left"/>
+<img src="media/Picture1.png" width="300" align="right"/>
+<img src="media/Picture2.png" width="300" align="right"/>
+<img src="media/Picture3.png" width="300" align="right"/>
 
 ## Peak Analysis
 
