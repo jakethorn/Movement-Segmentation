@@ -8,11 +8,9 @@ Left shows the original rotation data.
 Middle shows the potential segments in the data (coloured lines).  
 Right shows the segments identified by the algorithm.
 
-<img src="media/Picture1.png" width="300" align="left"/>
-<img src="media/Picture2.png" width="300" align="left"/>
-<img src="media/Picture3.png" width="300" align="left"/>
-
-<p>o</p>
+<img src="media/Picture1.png" width="275" align="left"/>
+<img src="media/Picture2.png" width="275" align="left"/>
+<img src="media/Picture3.png" width="275" align="left"/>
 
 ## Peak Analysis
 
@@ -21,8 +19,6 @@ However, some peaks are false positives and so need to be filtered out.
 
 <img src="media/Picture4.png"/>
 
-<p>o</p>
-
 ## Threshold Filter
 
 One method is to use a simple threshold filter and say that certain characteristics under a threshold indicate a true or false segment.  
@@ -30,8 +26,6 @@ For example, sharp angles are a strong indication of sudden changes in head move
 
 <img src="media/Picture5.png"/>
 <img src="media/Picture6.png"/>
-
-<p>o</p>
 
 ## Performance Filter
 
