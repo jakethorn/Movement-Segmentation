@@ -11,6 +11,7 @@ Right shows the segments identified by the algorithm.
 <img src="media/Picture1.png" width="300" align="left"/>
 <img src="media/Picture2.png" width="300" align="left"/>
 <img src="media/Picture3.png" width="300" align="left"/>
+<img src="media/white.png" width="100" align="right"/>
 
 ## Peak Analysis
 
